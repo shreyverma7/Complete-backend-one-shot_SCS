@@ -1,12 +1,7 @@
-const express = require('express');
+//start server using express is server.js works
 
-const app = express();  
-app.get('/', (req, res) => {
-  res.send('Hello, World!');
+const app = require("./src/app");
+
+app.listen(3000, () => {
+  console.log("Server is running on port 3000");
 });
-
-app.get('/about', (req, res) => {
-  res.send('This is the about page.');
-});
-
-app.listen(3000); 
