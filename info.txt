@@ -1,0 +1,84 @@
+
+Complete Backend One Shot | Beginners to Advanced | Learn Node.js, Express, MongoDB from Scratch
+ Jan 31, 2026  #backenddevelopment #nodejs #expressjs
+Instructor: Ankur Prajapati
+
+In this video, you will learn Complete Backend Development in One Shot — from system fundamentals to real-world backend engineering using Node.js, Express.js, and MongoDB.
+
+
+🧭 Course Timeline (Chapters)
+
+00:00:00 – Course Overview & System Scope
+00:08:30 – Why Servers Exist: System Limitations
+00:27:00 – Computer vs Server Architecture
+00:48:00 – Client–Server Model & Network Flow
+01:18:30 – Frontend, APIs & Backend Mapping
+01:47:00 – Server Myths & Common Confusions
+02:15:30 – Vertical vs Horizontal Scaling
+02:44:00 – Latency, Throughput & Resources
+03:12:30 – Industry Deployment Models
+03:38:00 – System Behavior Under Load
+04:05:00 – Transition to Internals
+04:13:16 – Core Concept Recap
+04:25:00 – Processes, Threads & Concurrency
+04:55:00 – Memory, Storage & I/O Flow
+05:30:00 – Web, App & Database Stack
+06:05:00 – Bottlenecks & Failure Points
+06:40:00 – Load Handling & Scalability
+07:10:00 – Auth, Security & Attack Surface
+07:35:00 – Reliability & Fault Tolerance
+08:00:00 – Engineering Thinking
+08:23:00 – Careers in Backend & Cloud
+
+
+🌐 Visit Our Website:
+https://sheryians.com/
+
+🌐 Explore Our Courses:
+https://sheryians.com/courses
+
+📁 Source Code:
+https://drive.google.com/drive/folder...
+
+
+Video LInk :
+In this video, you will learn Complete Backend Development in One Shot — from system fundamentals to real-world backend engineering using Node.js, Express.js, and MongoDB.
+
+
+🧭 Course Timeline (Chapters)
+
+00:00:00 – Course Overview & System Scope
+00:08:30 – Why Servers Exist: System Limitations
+00:27:00 – Computer vs Server Architecture
+00:48:00 – Client–Server Model & Network Flow
+01:18:30 – Frontend, APIs & Backend Mapping
+01:47:00 – Server Myths & Common Confusions
+02:15:30 – Vertical vs Horizontal Scaling
+02:44:00 – Latency, Throughput & Resources
+03:12:30 – Industry Deployment Models
+03:38:00 – System Behavior Under Load
+04:05:00 – Transition to Internals
+04:13:16 – Core Concept Recap
+04:25:00 – Processes, Threads & Concurrency
+04:55:00 – Memory, Storage & I/O Flow
+05:30:00 – Web, App & Database Stack
+06:05:00 – Bottlenecks & Failure Points
+06:40:00 – Load Handling & Scalability
+07:10:00 – Auth, Security & Attack Surface
+07:35:00 – Reliability & Fault Tolerance
+08:00:00 – Engineering Thinking
+08:23:00 – Careers in Backend & Cloud
+
+
+🌐 Visit Our Website:
+https://sheryians.com/
+
+🌐 Explore Our Courses:
+https://sheryians.com/courses
+
+📁 Source Code:
+https://drive.google.com/drive/folder...
+
+
+Video link: 
+https://www.youtube.com/watch?v=0IciwnJ6PJI 
